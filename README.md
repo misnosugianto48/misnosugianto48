@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @misnosugianto48
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 ## Hey 👋, This is Misno Sugianto
 [![Gmail Badge](https://img.shields.io/badge/-misnosugianto48@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:misnosugianto48@gmail.com)](mailto:misnosugianto48@gmail.com) 
