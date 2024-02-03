@@ -3,19 +3,19 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/misnosugianto48" target="blank">
-    <img align="center" src="./icons/"
-      alt="https://www.linkedin.com/in/misnosugianto48" height="30" width="40" />
+    <img align="center" src="./icons/In-Blue.png"
+      alt="https://www.linkedin.com/in/misnosugianto48" width="40px" />
   </a>
   <a href="https://www.instagram.com/abmnknock" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      height="30" width="40" />
+       width="40px" />
   </a>
-  <a href="mailto:misno48.sugianto@gmail.com">
-    <img src="./icons/" alt="mail" />
+  <a href="mailto:misno48.sugianto@gmail.com" target="_blank">
+    <img src="./icons/gmail.png" width="40px" alt="mail" align="center" />
   </a>
-  <a href="https://github.com/misnosugianto48">
-    <img src="./icons/" alt="https://github.com/misnosugianto48"/>
+  <a href="https://github.com/misnosugianto48" target="_blank">
+    <img src="./icons/github.png" width="40px" alt="https://github.com/misnosugianto48" align="center"/>
   </a>
 </p>
 
@@ -57,7 +57,7 @@
   </a>
   
   <a href="https://hapi.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" width="400px" />
+    <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" width="38" />
   </a>
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
