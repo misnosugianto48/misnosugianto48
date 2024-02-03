@@ -1,11 +1,31 @@
 
 ## Hey 👋, This is Misno Sugianto
-[![Gmail Badge](https://img.shields.io/badge/-misno48.sugianto@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:misno48.sugianto@gmail.com)](mailto:misno48.sugianto@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-misnosugianto48-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/misnosugianto48/)](https://www.linkedin.com/in/misnosugianto48/) [![Github Badge](https://img.shields.io/badge/-misnosugianto48-grey?style=flat&logo=github&logoColor=white&link=https://github.com/misnosugianto48/)](https://www.github.com/misnosugianto48/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=misnosugianto48.showwcase.com/)]([misnosugianto48.showwcase.com/](https://misnosugianto48.showwcase.com/)) <p align='left'>My journey in the world of informatics began when I chose to pursue an education in this field. since then, I have continued to hone my abilities and skills in the field of Back End application development. I am always looking for opportunities to learn and grow.</p><p align='left'> You can view my resume <a href='https://resume.showwcase.com/misnosugianto48.pdf' target=_blank><u>here</u>.</a></p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/misnosugianto48" target="blank">
+    <img align="center" src="./icons/"
+      alt="https://www.linkedin.com/in/misnosugianto48" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/abmnknock" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      height="30" width="40" />
+  </a>
+  <a href="mailto:misno48.sugianto@gmail.com">
+    <img src="./icons/" alt="mail" />
+  </a>
+  <a href="https://github.com/misnosugianto48">
+    <img src="./icons/" alt="https://github.com/misnosugianto48"/>
+  </a>
+</p>
+
+
+<p align='left'>My journey in the world of informatics began when I chose to pursue an education in this field. since then, I have continued to hone my abilities and skills in the field of Back End application development. I am always looking for opportunities to learn and grow.</p><p align='left'> You can view my resume <a href='https://resume.showwcase.com/misnosugianto48.pdf' target=_blank><u>here</u>.</a></p>
 
 <p align="left">
 <a href="https://github.com/misnosugianto">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=misnosugianto48&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=misnosugianto48&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
@@ -37,8 +57,7 @@
   </a>
   
   <a href="https://hapi.dev/" target="_blank" rel="noreferrer"> 
-    <img src="./icons/hapi.svg" alt="hapi" width="40"
-      height="40" title="Hapi" /> 
+    <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" width="400px" />
   </a>
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
