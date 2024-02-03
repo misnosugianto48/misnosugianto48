@@ -12,59 +12,67 @@
 <h4 align="left">TECHNOLOGIES I USE</h4>
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="38" height="38" title="Javascript" /> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" width="38" height="38" title="Typescript" /> </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
-      height="40" title="Golang" /> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express" width="38" height="38" title="Express" /> </a>
-  <a href="https://hapi.dev/" target="_blank" rel="noreferrer"> <img src="./icons/hapi.svg" alt="hapi" width="40"
-      height="40" title="Hapi" /> </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="38" height="38"
-      title="CodeIgniter 4" /> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="38" height="38" title="Bootstrap 5 " /> </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="38" height="38"
-      title="Tailwind" /> </a>
-  <a href="https://ant.design/" target="_blank" rel="noreferrer"> <img src="./icons/antd.svg" alt="antdesign" width="40"
-      height="40" title="Ant Design" /> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="38" height="38" title="React" /> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="38" height="38" title="Next" /> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-      src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="38" height="38" title="React Native" />
+      alt="javascript" width="38" height="38" title="Javascript" />
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
+  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript" width="38" height="38" title="Typescript" />
+  </a>
+  
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
+      height="40" title="Golang" /> 
+  </a>
+  
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      alt="express" width="38" height="38" title="Express" /> 
+  </a>
+  
+  <a href="https://hapi.dev/" target="_blank" rel="noreferrer"> 
+    <img src="./icons/hapi.svg" alt="hapi" width="40"
+      height="40" title="Hapi" /> 
+  </a>
+  
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="38" height="38" title="PostgreSQL" /> </a>
-  <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="./icons/mongoose.svg" alt="mongoose"
-      width="38" height="38" title="Mongoose" /> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      alt="postgresql" width="38" height="38" title="PostgreSQL" /> 
+  </a>
+  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="38" height="38" title="MySQL" /> </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="38" height="38" title="Jest" /> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+      alt="mysql" width="38" height="38" title="MySQL" /> 
+  </a>
+  
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+    <img
+      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="38" height="38" title="Jest" />
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38" title="Git" />
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
+  
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="38" height="38"
-      title="Postman" /> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
+      title="Postman" /> 
+  </a>
+  
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws" width="38" height="38" title="Amazon Web Service" /> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img
-      src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="38" height="38"
-      title="Google Cloud Platform" /> </a>
+      alt="aws" width="38" height="38" title="Amazon Web Service" />
+  </a>
+  
 </p>
