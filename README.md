@@ -70,7 +70,7 @@
 [postgre]: https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white
 [Postman-url]: https://www.postman.com
 [postman]: https://img.shields.io/badge/Postman-tomato?style=for-the-badge&logo=postman&logoColor=white
-[Aws-url]: https://www.postgresql.org
+[Aws-url]: https://aws.amazon.com/
 [aws]: https://img.shields.io/badge/AmazonAWS-white?style=for-the-badge&logo=amazonaws&logoColor=black
 [instagram]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
