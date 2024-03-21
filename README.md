@@ -1,26 +1,11 @@
 
 ## Hey 👋, This is Misno Sugianto
+[![linkedin][linkedin]](https://www.linkedin.com/in/misnosugianto48)
+[![instagram][instagram]](instagram.com/abmnknock)
+[![github][github]](github.com/misnosugianto48)
+[![mail][mail]](mailto:misno48.sugianto@gmail.com)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/misnosugianto48" target="blank">
-    <img align="center" src="./icons/In-Blue.png"
-      alt="https://www.linkedin.com/in/misnosugianto48" width="40px" />
-  </a>
-  <a href="https://www.instagram.com/abmnknock" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-       width="40px" />
-  </a>
-  <a href="mailto:misno48.sugianto@gmail.com" target="_blank">
-    <img src="./icons/gmail.png" width="40px" alt="mail" align="center" />
-  </a>
-  <a href="https://github.com/misnosugianto48" target="_blank">
-    <img src="./icons/github.png" width="40px" alt="https://github.com/misnosugianto48" align="center"/>
-  </a>
-</p>
-
-
-<p align='left'>My journey in the world of informatics began when I chose to pursue an education in this field. since then, I have continued to hone my abilities and skills in the field of Back End application development. I am always looking for opportunities to learn and grow.</p><p align='left'> You can view my resume <a href='https://resume.showwcase.com/misnosugianto48.pdf' target=_blank><u>here</u>.</a></p>
+<p align='left'>My journey in the world of informatics began when I chose to pursue an education in this field. since then, I have continued to hone my abilities and skills in the field of Back End application development. I am always looking for opportunities to learn and grow.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1UQTSrzuUTdC-BuNogpt0Dg_gq2l94hxh/view?usp=drive_link' target=_blank><u>here</u>.</a></p>
 
 <p align="left">
 <a href="https://github.com/misnosugianto">
@@ -29,69 +14,67 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=misnosugianto48&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-<h4 align="left">TECHNOLOGIES I USE</h4>
+### ⚙️ Development Technologies
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="38" height="38" title="Javascript" />
-  </a>
+-   Language :
   
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" width="38" height="38" title="Typescript" />
-  </a>
-  
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40"
-      height="40" title="Golang" /> 
-  </a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express" width="38" height="38" title="Express" /> 
-  </a>
-  
-  <a href="https://hapi.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/hapijs/assets/master/images/hapi.png" width="38" />
-  </a>
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql" width="38" height="38" title="PostgreSQL" /> 
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="38" height="38" title="MySQL" /> 
-  </a>
-  
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="38" height="38" title="Jest" />
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38" title="Git" />
-  </a>
-  
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="38" height="38"
-      title="Postman" /> 
-  </a>
-  
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws" width="38" height="38" title="Amazon Web Service" />
-  </a>
-  
-</p>
+    [![javascript][javascript]][Javascript-url]
+    [![Node.js][NodeJS]][NodeJS-url]
+    [![typescript][typescript]][Typescript-url]
+    [![golang][golang]][Golang-url]
+
+-   Database :
+
+    [![MySQL][MySQL]][MySQL-url]
+    [![postgre][postgre]][Postgre-url]
+
+-   Framework :
+
+    [![express][express]][Express-url]
+    [![hapi][hapi]][Hapi-url]
+    [![nest][nest]][Nest-url]
+
+-   Testing :
+
+    [![jest][jest]][Jest-url]
+    [![postman][postman]][Postman-url]
+
+-   Other :
+
+    [![git][git]][Git-url]
+    [![aws][aws]][Aws-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[MySQL-url]: https://www.mysql.com/
+[MySQL]: https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql&logoColor=white
+[NodeJS-url]: https://nodejs.org/en
+[NodeJS]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+[Javascript-url]: https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+[javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[Typescript-url]: https://www.typescriptlang.org/
+[typescript]: https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white
+[Golang-url]: https://go.dev/
+[golang]: https://img.shields.io/badge/Go-61DAFB?style=for-the-badge&logo=go&logoColor=black
+[Express-url]: https://expressjs.com/
+[express]: https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black
+[Hapi-url]: https://hapi.dev/
+[hapi]: https://img.shields.io/badge/Hapi-white?style=for-the-badge&logo=hapi&logoColor=black
+[Nest-url]: https://docs.nestjs.com/
+[nest]: https://img.shields.io/badge/NestJs-E4405F?style=for-the-badge&logo=nestjs&logoColor=white
+[Git-url]:https://git-scm.com/
+[git]: https://img.shields.io/badge/Git-FF1330?style=for-the-badge&logo=git&logoColor=white
+[Jest-url]: https://jestjs.io/
+[jest]: https://img.shields.io/badge/Jest-983672?style=for-the-badge&logo=jest&logoColor=white
+[Postgre-url]: https://www.postgresql.org
+[postgre]: https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white
+[Postman-url]: https://www.postman.com
+[postman]: https://img.shields.io/badge/Postman-tomato?style=for-the-badge&logo=postman&logoColor=white
+[Aws-url]: https://www.postgresql.org
+[aws]: https://img.shields.io/badge/AmazonAWS-white?style=for-the-badge&logo=amazonaws&logoColor=black
+[instagram]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[github]: https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white
+[mail]: https://img.shields.io/badge/Mail-FF0000?style=for-the-badge&logo=gmail&logoColor=white
+
+
