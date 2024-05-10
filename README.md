@@ -27,6 +27,7 @@
 
     [![MySQL][MySQL]][MySQL-url]
     [![postgre][postgre]][Postgre-url]
+    [![mongo][mongo]][Mongo-url]
 
 -   Framework :
 
@@ -68,6 +69,8 @@
 [jest]: https://img.shields.io/badge/Jest-983672?style=for-the-badge&logo=jest&logoColor=white
 [Postgre-url]: https://www.postgresql.org
 [postgre]: https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white
+[Mongo-url]:https://www.mongodb.com/docs/
+[mongo]: https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=green
 [Postman-url]: https://www.postman.com
 [postman]: https://img.shields.io/badge/Postman-tomato?style=for-the-badge&logo=postman&logoColor=white
 [Aws-url]: https://aws.amazon.com/
