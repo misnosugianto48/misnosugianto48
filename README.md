@@ -9,12 +9,14 @@
 
 <p align="left">
 <a href="https://github.com/misnosugianto">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misnosugianto48&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=misnosugianto48&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=misnosugianto48&theme=algolia&hide_border=false"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=misnosugianto48&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=misnosugianto48&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 
-### ⚙️ Development Technologies
+### ⚙️ Technologies
 
 -   Language :
   
@@ -34,6 +36,7 @@
     [![express][express]][Express-url]
     [![hapi][hapi]][Hapi-url]
     [![nest][nest]][Nest-url]
+    [![vue][vue]][Vue-url]
 
 -   Testing :
 
@@ -63,6 +66,8 @@
 [hapi]: https://img.shields.io/badge/Hapi-white?style=for-the-badge&logo=hapi&logoColor=black
 [Nest-url]: https://docs.nestjs.com/
 [nest]: https://img.shields.io/badge/NestJs-E4405F?style=for-the-badge&logo=nestjs&logoColor=white
+[vue]: https://img.shields.io/badge/VueJs-43853D?style=for-the-badge&logo=vuejs&logoColor=white
+[Vue-url]: https://vuejs.org/
 [Git-url]:https://git-scm.com/
 [git]: https://img.shields.io/badge/Git-FF1330?style=for-the-badge&logo=git&logoColor=white
 [Jest-url]: https://jestjs.io/
