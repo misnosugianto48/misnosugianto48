@@ -5,7 +5,16 @@
 [![github][github]](github.com/misnosugianto48)
 [![mail][mail]](mailto:misno48.sugianto@gmail.com)
 
-<p align='left'>My journey in the world of informatics began when I chose to pursue an education in this field. since then, I have continued to hone my abilities and skills in the field of Back End application development. I am always looking for opportunities to learn and grow.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1UQTSrzuUTdC-BuNogpt0Dg_gq2l94hxh/view?usp=drive_link' target=_blank><u>here</u>.</a></p>
+<p align='left'>I am an Informatics Engineering student and Backend Developer with 1 year of experience building robust and scalable applications. My expertise lies in developing and maintaining RESTful APIs, designing and managing databases, and fostering strong communication with front-end developers.
+Technical Skills:
+
+- Programming Languages: JavaScript, Golang, PHP, Dart (in progress)
+- Frameworks: Express, Hapi, Laravel
+- Database Management
+- RESTful API Development
+
+Current Focus:
+I'm expanding my skill set to include mobile development (particularly Flutter) and blockchain technology. I'm passionate about leveraging my backend experience to create comprehensive, full-stack solutions in these cutting-edge fields.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1UQTSrzuUTdC-BuNogpt0Dg_gq2l94hxh/view?usp=drive_link' target=_blank><u>here</u>.</a></p>
 
 <p align="left">
 <a href="https://github.com/misnosugianto">
