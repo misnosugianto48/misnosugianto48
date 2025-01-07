@@ -8,7 +8,7 @@
 <p align='left'>I am an Informatics Engineering student and Backend Developer with 1 year of experience building robust and scalable applications. My expertise lies in developing and maintaining RESTful APIs, designing and managing databases, and fostering strong communication with front-end developers.
 Technical Skills:
 
-- Programming Languages: JavaScript, Golang, PHP, Dart (in progress)
+- Programming Languages: JavaScript, Golang, PHP, Dart (in progress), Typescript (in progress)
 - Frameworks: Express, Hapi, Laravel
 - Database Management
 - RESTful API Development
