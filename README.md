@@ -3,7 +3,7 @@
 [![linkedin][linkedin]](https://www.linkedin.com/in/misnosugianto48)
 [![instagram][instagram]](instagram.com/abmnknock)
 [![github][github]](github.com/misnosugianto48)
-[![mail][mail]](mailto:misno48.sugianto@gmail.com)
+[![mail][mail]](mailto:misno48.sugianto@devmisno.web.id)
 
 <p align='left'>I am an Informatics Engineering student and Backend Developer with 1 year of experience building robust and scalable applications. My expertise lies in developing and maintaining RESTful APIs, designing and managing databases, and fostering strong communication with front-end developers.
 Technical Skills:
