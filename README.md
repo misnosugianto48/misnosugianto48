@@ -9,12 +9,12 @@
 Technical Skills:
 
 - Programming Languages: JavaScript, Golang, PHP, Dart (in progress), Typescript (in progress)
-- Frameworks: Express, Hapi, Laravel
+- Frameworks: Express, Hapi, Laravel, Nest, Hardhat
 - Database Management
 - RESTful API Development
 
 Current Focus:
-I'm expanding my skill set to include mobile development (particularly Flutter) and blockchain technology. I'm passionate about leveraging my backend experience to create comprehensive, full-stack solutions in these cutting-edge fields.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1UQTSrzuUTdC-BuNogpt0Dg_gq2l94hxh/view?usp=drive_link' target=_blank><u>here</u>.</a></p>
+I'm expanding my skill set to include mobile development (particularly Flutter) and blockchain technology. I'm passionate about leveraging my backend experience to create comprehensive, full-stack solutions in these cutting-edge fields.</p><p align='left'> You can view my resume <a href='https://flowcv.com/resume/lpp1nc598j' target=_blank><u>here</u>.</a></p>
 
 <p align="left">
 <a href="https://github.com/misnosugianto">
