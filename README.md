@@ -24,3 +24,8 @@ I'm expanding my skill set to include mobile development (particularly Flutter) 
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=misnosugianto48&layout=compact&langs_count=10&theme=algolia"/>
 </a>
+
+[instagram]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[linkedin]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[github]: https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white
+[mail]: https://img.shields.io/badge/Mail-FF0000?style=for-the-badge&logo=gmail&logoColor=white
