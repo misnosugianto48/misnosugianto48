@@ -14,7 +14,7 @@ Technical Skills:
 - RESTful API Development
 
 Current Focus:
-I'm expanding my skill set to include mobile development (particularly Flutter) and blockchain technology. I'm passionate about leveraging my backend experience to create comprehensive, full-stack solutions in these cutting-edge fields.</p><p align='left'> You can view my resume <a href='https://flowcv.com/resume/lpp1nc598j' target=_blank><u>here</u>.</a></p>
+I'm expanding my skill set to include mobile development (particularly Flutter) and blockchain technology. I'm passionate about leveraging my backend experience to create comprehensive, full-stack solutions in these cutting-edge fields.</p><p align='left'> You can view my resume <a href='https://admin.devmisno.web.id/storage/resume/ClLMD5NOhRuShg6m-Misno-Sugianto-CV.pdf' target=_blank><u>here</u>.</a></p>
 
 <p align="left">
 <a href="https://github.com/misnosugianto">
